@@ -1,6 +1,6 @@
 Hello there.
 
-Please visit [my website](https://amitrajaraman.github.io/).
+You can probably find whatever you want somewhere on [my website](https://amitrajaraman.github.io/).
 
 <!--
 Credit for my profile picture goes to [Aryaman Maithani](https://aryamanmaithani.github.io/).
